@@ -45,6 +45,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alqorni30/Alqorni30/output/snake.svg" alt="Snake animation" />
-
 ###
