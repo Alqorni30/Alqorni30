@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋! My name is Alqorni, I am a Frontend Web Developer who has a passion for Web Development. One of my life mottos is "Don't rush the process, trust that great things take time."</h4>
+<h2 align="center">Hi 👋! My name is Alqorni, I am a Frontend Web Developer who has a passion for Web Development. One of my life mottos is "Don't rush the process, trust that great things take time."</h2>
 
 ###
 
@@ -43,8 +43,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
@@ -61,19 +59,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alqorni30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alqorni30&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Alqorni30/Alqorni30/output/snake.svg" alt="Snake animation" />
 
 ###
 
